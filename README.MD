@@ -1,5 +1,5 @@
 # TRUVALUE LABS Case Study
-![TRUEVALUE LABS Logo](TVL_Logo_White.png)
+![TRUEVALUE LABS Logo](TVL_Logo_Black.png)
 ## Overview and Origin
 * Name of company: 
 
