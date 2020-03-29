@@ -46,7 +46,7 @@ The capability to sweep multiples sources of information and find relevant data 
 1. **Platform**: This is an integrated solution where clients have access to ESG data and analytics on intangible factors. With Platform the clients can discover unique investment themes and find opportunities that other investors might miss. It allows access to ESG alerts, material events for companies, and analyze companies using the framework for codified standards from the Sustainability Accounting Standards Board™ (SASB).
 2. **Data**: One of the big advantages of Truvalue Labs over competitors is that clients can uncover new sources of alpha with this unique set of data. Investors can beat the market by developing trading strategies containing factors that produce excess return over the market. Truvalue Labs research has established that ESG factors are independent to  other pricing factors such as size of firms and book-to-market values.
 3. **Cloud**: Clients can deliver the dataset and Truvalue Labs processes and analyzes it with their AI Engine. The results can be visualized with interactive charts and company scorecards.
-4. **Index**: The company has built a set of index solutions that provide scoring of companies with relation on how involved they are in ESG.
+4. **Index**: The company has built a set of index solutions that provide scoring of companies with relation to how involved they are in ESG.
 
 * Which technologies are they currently using, and how are they implementing them?
 
